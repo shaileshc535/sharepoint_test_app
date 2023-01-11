@@ -1,0 +1,33 @@
+﻿2021-10-26 13:24:58> Program: Starting Squirrel Updater: --createShortcut=WhatsApp.exe
+2021-10-26 13:24:58> ApplyReleasesImpl: About to create shortcuts for WhatsApp.exe, rootAppDir C:\Users\Erick\AppData\Local\WhatsApp
+2021-10-26 13:24:59> ApplyReleasesImpl: Creating shortcut for WhatsApp.exe => C:\Users\Erick\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WhatsApp\WhatsApp.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: About to save shortcut: C:\Users\Erick\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WhatsApp\WhatsApp.lnk (target C:\Users\Erick\AppData\Local\WhatsApp\WhatsApp.exe, workingDir C:\Users\Erick\AppData\Local\WhatsApp\app-2.2140.12, args , toastActivatorCSLID 00b449ef-45ee-5182-a406-2e2896092eab)
+2021-10-26 13:24:59> ApplyReleasesImpl: Creating shortcut for WhatsApp.exe => C:\Users\Erick\Desktop\WhatsApp.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: About to save shortcut: C:\Users\Erick\Desktop\WhatsApp.lnk (target C:\Users\Erick\AppData\Local\WhatsApp\WhatsApp.exe, workingDir C:\Users\Erick\AppData\Local\WhatsApp\app-2.2140.12, args , toastActivatorCSLID 00b449ef-45ee-5182-a406-2e2896092eab)
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Adobe Photoshop CC 2019.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Crisp.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Excel.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: File Explorer.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: FileZilla.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Firefox.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Microsoft Expression Web .lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Notepad.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Opera Browser.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Outlook.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: TechSmith Capture.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: typedesk.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Windscribe.lnk
+2021-10-26 13:24:59> ApplyReleasesImpl: Examining Pin: Word.lnk
+2021-10-26 13:25:05> Program: Starting Squirrel Updater: --checkForUpdate https://web.whatsapp.com/desktop/windows/release/x64?version=2.2140.12
+2021-10-26 13:25:05> Program: Fetching update information, downloading from https://web.whatsapp.com/desktop/windows/release/x64?version=2.2140.12
+2021-10-26 13:25:05> CheckForUpdateImpl: Generated new staging user ID: bcc8664e-a4ff-5bac-ad92-891e2a80ce20
+2021-10-26 13:25:05> CheckForUpdateImpl: Downloading RELEASES file from https://web.whatsapp.com/desktop/windows/release/x64?version=2.2140.12
+2021-10-26 13:25:05> FileDownloader: Downloading url: https://web.whatsapp.com/desktop/windows/release/x64/RELEASES?version=2.2140.12&id=WhatsApp&localVersion=2.2140.12&arch=amd64
+2021-10-26 13:25:05> CheckForUpdateImpl: hwhat, local version is greater than remote version
+2021-10-26 13:25:15> Program: Starting Squirrel Updater: --checkForUpdate https://web.whatsapp.com/desktop/windows/release/x64?version=2.2140.12
+2021-10-26 13:25:15> Program: Fetching update information, downloading from https://web.whatsapp.com/desktop/windows/release/x64?version=2.2140.12
+2021-10-26 13:25:15> CheckForUpdateImpl: Using existing staging user ID: bcc8664e-a4ff-5bac-ad92-891e2a80ce20
+2021-10-26 13:25:15> CheckForUpdateImpl: Downloading RELEASES file from https://web.whatsapp.com/desktop/windows/release/x64?version=2.2140.12
+2021-10-26 13:25:15> FileDownloader: Downloading url: https://web.whatsapp.com/desktop/windows/release/x64/RELEASES?version=2.2140.12&id=WhatsApp&localVersion=2.2140.12&arch=amd64
+2021-10-26 13:25:15> CheckForUpdateImpl: hwhat, local version is greater than remote version
